@@ -1,8 +1,26 @@
 about:
-  - image_path: /assets/images/prateek.jpg
+  - image_path: "{{ site.baseurl }}/assets/images/prateek.jpg"
     alt: "Prateek Shrivastava"
     title: "Hi, I'm Prateek 👋"
     excerpt: "I'm an Advanced Analytics Manager, speaker, and data strategist. I specialize in supply chain analytics, AI-powered automation, and driving data culture. With 12+ years of experience across Fortune 100 and startup ecosystems, I love solving real-world problems with data."
-    url: /cv/
+    url: "{{ site.baseurl }}/cv/"
     btn_label: "View My CV"
     btn_class: "btn--primary"
+
+links:
+  - image_path: "{{ site.baseurl }}/assets/images/github.png"
+    alt: "GitHub"
+    title: "GitHub"
+    url: "https://github.com/prateek0489"
+  - image_path: "{{ site.baseurl }}/assets/images/linkedin.png"
+    alt: "LinkedIn"
+    title: "LinkedIn"
+    url: "https://linkedin.com/in/pshrivastava1989"
+  - image_path: "{{ site.baseurl }}/assets/images/email.png"
+    alt: "Email"
+    title: "Email Me"
+    url: "mailto:prateek.ietdavv@gmail.com"
+  - image_path: "{{ site.baseurl }}/assets/files/resume.pdf"
+    alt: "CV"
+    title: "Download CV"
+    url: "{{ site.baseurl }}/assets/files/resume.pdf"
