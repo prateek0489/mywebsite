@@ -10,3 +10,7 @@ excerpt: "Advanced Analytics Leader | Speaker | Writer | Building the future of 
 intro:
   - excerpt: "Welcome to my personal website. I work at the intersection of AI, analytics, and impact. I’m passionate about building intelligent systems, driving business transformation, and helping others succeed."
 ---
+
+{% include feature_row id="about" type="left" %}
+
+{% assign about = site.data.featured.about %}
