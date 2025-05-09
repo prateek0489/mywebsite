@@ -1,7 +1,9 @@
 title: "Prateek Shrivastava"
-description: "AI, Analytics & Supply Chain | Speaker | Writer"
-url: "https://prateekshrivastava.github.io"
+description: "AI, Analytics & Supply Chain"
+baseurl: "/mywebsite" # 👈 This is critical
+url: "https://prateek0489.github.io"
+
+# Optional: Analytics, Author, Social
 author:
   name: "Prateek Shrivastava"
-  email: prateek@ietdavv.com
-  avatar: /assets/images/prateek.jpg
+  email: "prateek.ietdavv@gmail.com"
