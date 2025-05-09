@@ -4,24 +4,39 @@ title: "Home"
 permalink: /
 ---
 
-<img src="{{ site.baseurl }}/assets/images/prateek.jpg" alt="Prateek Shrivastava" width="200" style="border-radius: 50%;">
+<table>
+<tr>
+<td style="width: 30%; vertical-align: top;">
+  <img src="{{ site.baseurl }}/assets/images/prateek.jpg" alt="Prateek Shrivastava" width="200" style="border-radius: 50%;">
+</td>
+<td style="padding-left: 20px; vertical-align: top;">
 
-# 👋 Hi, I'm Prateek Shrivastava
+### 👋 About Me
 
-I’m a data and AI leader focused on transforming supply chains through predictive analytics, simulation, and machine learning. Over the past decade, I’ve worked across the US and India, leading global teams and delivering measurable impact in the enterprise and startup worlds.
+I'm Prateek Shrivastava, an analytics and AI leader with over 12 years of experience across global enterprises and fast-growing startups. I specialize in applying data science to optimize supply chain systems, predict equipment failure, and improve decision-making at scale.
+
+Currently, I lead advanced analytics initiatives at Cummins, where I focus on simulation modeling, predictive maintenance, and digital transformation. My journey spans organizations like 84.51°, Vantiv, and Luxottica, and I’ve spoken at leading conferences including INFORMS and MarketingSherpa.
+
+Beyond work, I'm passionate about FIRE (Financial Independence, Retire Early), mentoring aspiring data professionals, and building thought leadership at the intersection of AI and real-world operations.
+
+</td>
+</tr>
+</table>
+
+---
 
 ## 🔗 Quick Links
 - [GitHub](https://github.com/prateek0489)
 - [LinkedIn](https://linkedin.com/in/pshrivastava1989)
 - [Email Me](mailto:prateek.ietdavv@gmail.com)
-- [Download CV]({{ site.baseurl }}/assets/files/resume.pdf) *(optional)*
+- [Download CV]({{ site.baseurl }}/assets/files/resume.pdf)
 
-## 🛠 Areas of Focus
+## 💡 Topics I Focus On
 - Predictive maintenance using telematics
-- Machine learning for supply chain planning
-- FIRE (Financial Independence Retire Early) with a data-first mindset
-- Public speaking, mentoring, and thought leadership in analytics
+- Machine learning in supply chains
+- AI + Simulation-based optimization
+- Data storytelling and mentoring
 
 ---
 
-Want to collaborate, consult, or just connect? [Send me an email](mailto:prateek.ietdavv@gmail.com)!
+📬 *Interested in connecting? [Email me](mailto:prateek.ietdavv@gmail.com) or find me on [LinkedIn](https://linkedin.com/in/pshrivastava1989).*
