@@ -1,10 +1,11 @@
 ---
 layout: splash
 title: "Prateek Shrivastava"
+permalink: /
 header:
   overlay_color: "#000"
   overlay_filter: "0.3"
-  overlay_image: /assets/images/hero-bg.jpg
+  overlay_image: "{{ site.baseurl }}/assets/images/hero-bg.jpg"
   caption: "AI • Supply Chain • FIRE Enthusiast"
 excerpt: "Advanced Analytics Leader | Speaker | Writer | Building the future of data"
 intro:
@@ -12,5 +13,4 @@ intro:
 ---
 
 {% include feature_row id="about" type="left" %}
-
-{% assign about = site.data.featured.about %}
+{% include feature_row id="links" %}
