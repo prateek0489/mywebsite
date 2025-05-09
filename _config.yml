@@ -1,9 +1,5 @@
 title: "Prateek Shrivastava"
-description: "AI, Analytics & Supply Chain"
-baseurl: "/mywebsite" # 👈 This is critical
+description: "AI | Analytics | Supply Chain"
+baseurl: "/mywebsite"
 url: "https://prateek0489.github.io"
-
-# Optional: Analytics, Author, Social
-author:
-  name: "Prateek Shrivastava"
-  email: "prateek.ietdavv@gmail.com"
+theme: jekyll-theme-primer
