@@ -1,0 +1,8 @@
+about:
+  - image_path: /assets/images/prateek.jpg
+    alt: "Prateek Shrivastava"
+    title: "Hi, I'm Prateek 👋"
+    excerpt: "I'm an Advanced Analytics Manager, speaker, and data strategist. I specialize in supply chain analytics, AI-powered automation, and driving data culture. With 12+ years of experience across Fortune 100 and startup ecosystems, I love solving real-world problems with data."
+    url: /cv/
+    btn_label: "View My CV"
+    btn_class: "btn--primary"
