@@ -1,4 +1,7 @@
-title: My Personal Website
-description: Welcome to my GitHub Pages site powered by Jekyll.
-author: Prateek Shrivastava
-theme: minima
+title: "Prateek Shrivastava"
+description: "AI, Analytics & Supply Chain | Speaker | Writer"
+url: "https://prateekshrivastava.github.io"
+author:
+  name: "Prateek Shrivastava"
+  email: prateek@ietdavv.com
+  avatar: /assets/images/prateek.jpg
