@@ -1,16 +1,30 @@
 ---
-layout: splash
-title: "Prateek Shrivastava"
+layout: default
+title: "Home"
 permalink: /
-header:
-  overlay_color: "#000"
-  overlay_filter: "0.3"
-  overlay_image: "{{ site.baseurl }}/assets/images/hero-bg.jpg"
-  caption: "AI • Supply Chain • FIRE Enthusiast"
-excerpt: "Advanced Analytics Leader | Speaker | Writer | Building the future of data"
-intro:
-  - excerpt: "Welcome to my personal website. I work at the intersection of AI, analytics, and impact. I’m passionate about building intelligent systems, driving business transformation, and helping others succeed."
 ---
 
-{% include feature_row id="about" type="left" %}
-{% include feature_row id="links" %}
+# Hi, I'm Prateek Shrivastava 👋
+
+Welcome to my personal site! I work at the intersection of AI, analytics, and supply chain innovation. With over 12 years of experience, I help organizations turn data into decisions and build resilient, intelligent systems.
+
+---
+
+## 🚀 What I Do
+- Advanced analytics & machine learning
+- Predictive maintenance for industrial assets
+- Digital transformation in supply chains
+- Mentoring and speaking at data science events
+
+---
+
+## 🔗 Quick Links
+- [My GitHub](https://github.com/prateek0489)
+- [LinkedIn](https://linkedin.com/in/pshrivastava1989)
+- [Email Me](mailto:prateek.ietdavv@gmail.com)
+- [Download CV]({{ site.baseurl }}/assets/files/resume.pdf)
+
+---
+
+## 📬 Contact
+If you'd like to connect, collaborate, or just say hi, feel free to reach out!
