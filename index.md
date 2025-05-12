@@ -11,7 +11,7 @@ permalink: /
   <a href="https://linkedin.com/in/pshrivastava1989" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="24" height="24" style="margin-right: 10px;" />
   </a>
-  <a href="https://scholar.google.com/citations?user=YOUR_ID" target="_blank">
+  <a href="https://scholar.google.com/citations?user=V62DoOgAAAAJ" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/googlescholar.svg" alt="Google Scholar" width="24" height="24" />
   </a>
 </p>
