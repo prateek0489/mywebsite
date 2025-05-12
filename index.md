@@ -4,6 +4,18 @@ title: "Home"
 permalink: /
 ---
 
+<p align="right">
+  <a href="https://github.com/prateek0489" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" alt="GitHub" width="24" height="24" style="margin-right: 10px;" />
+  </a>
+  <a href="https://linkedin.com/in/pshrivastava1989" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="24" height="24" style="margin-right: 10px;" />
+  </a>
+  <a href="https://scholar.google.com/citations?user=YOUR_ID" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/googlescholar.svg" alt="Google Scholar" width="24" height="24" />
+  </a>
+</p>
+
 <table>
 <tr>
 <td style="width: 30%; vertical-align: top;">
