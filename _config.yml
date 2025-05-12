@@ -3,3 +3,13 @@ description: "AI | Analytics | Supply Chain"
 baseurl: "/mywebsite"
 url: "https://prateek0489.github.io"
 theme: jekyll-theme-primer
+
+nav:
+  - title: "Home"
+    url: "/"
+  - title: "CV"
+    url: "/cv/"
+  - title: "Media"
+    url: "/media/"
+  - title: "Blog"
+    url: "/blog/"
