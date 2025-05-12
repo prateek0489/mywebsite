@@ -3,6 +3,8 @@ layout: default
 title: "Curriculum Vitae"
 permalink: /cv/
 ---
+[📄 Download PDF]({{ site.baseurl }}/assets/files/resume.pdf)
+
 
 <style>
 .cv-section { margin-bottom: 2em; }
