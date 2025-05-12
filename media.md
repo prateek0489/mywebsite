@@ -37,6 +37,13 @@ permalink: /media/
     <div class="media-item-desc">Candid discussion on data careers, AI readiness, and bridging technical knowledge with business strategy.</div>
     <a href="https://www.youtube.com/watch?v=25J2yHYoJ44" target="_blank">Watch on YouTube</a>
   </div>
+
+  <div class="media-item">
+    <div class="media-item-title">YouTube – "How Indian Students Can Move to the U.S."</div>
+    <div class="media-item-desc">In this video, I share practical advice for Indian students on studying in the U.S., including visas, academics, and long-term career planning.</div>
+    <a href="https://www.youtube.com/watch?v=oFf7cakEnO8" target="_blank">Watch on YouTube</a>
+  </div>
+  
 </div>
 
 <div class="media-section">
