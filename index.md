@@ -4,17 +4,18 @@ title: "Home"
 permalink: /
 ---
 
-<p align="right">
-  <a href="https://github.com/prateek0489" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" alt="GitHub" width="24" height="24" style="margin-right: 10px;" />
+<div style="text-align: right; margin-top: 10px;">
+  <a href="https://github.com/prateek0489" target="_blank" style="margin-right: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="24" height="24">
   </a>
-  <a href="https://linkedin.com/in/pshrivastava1989" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="24" height="24" style="margin-right: 10px;" />
+  <a href="https://linkedin.com/in/pshrivastava1989" target="_blank" style="margin-right: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="24" height="24">
   </a>
   <a href="https://scholar.google.com/citations?user=V62DoOgAAAAJ" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/googlescholar.svg" alt="Google Scholar" width="24" height="24" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Google_Scholar_logo.svg" alt="Google Scholar" width="24" height="24">
   </a>
-</p>
+</div>
+
 
 <table>
 <tr>
@@ -23,7 +24,7 @@ permalink: /
 </td>
 <td style="padding-left: 20px; vertical-align: top; line-height: 1.6;">
 
-  <h3>👋 About Me</h3>
+  <h3> About Me</h3>
 
   <p>I'm Prateek Shrivastava — a data science leader with 12+ years of experience applying AI and analytics to solve complex problems across supply chain, marketing, and enterprise systems. I currently lead advanced analytics initiatives at Cummins, where I build predictive models and intelligent systems to drive operational impact and digital transformation. My previous roles at 84.51° (Kroger) and Vantiv have shaped a career grounded in measurable results and scalable solutions.</p>
 
@@ -41,13 +42,13 @@ permalink: /
 
 ---
 
-## 🔗 Quick Links
+##  Quick Links
 - [GitHub](https://github.com/prateek0489)
 - [LinkedIn](https://linkedin.com/in/pshrivastava1989)
 - [Email Me](mailto:prateek.ietdavv@gmail.com)
 - [Download CV](/assets/files/resume.pdf)
 
-## 💡 Topics I Focus On
+##  Topics I Focus On
 - Predictive maintenance using telematics
 - Machine learning in supply chains
 - AI + Simulation-based optimization
