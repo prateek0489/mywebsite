@@ -4,23 +4,17 @@ title: "Home"
 permalink: /
 ---
 
-<p>
-  <a href="https://github.com/prateek0489" target="_blank" style="margin-right: 15px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="20" style="vertical-align: middle;">
-    <span style="margin-left: 6px;">GitHub</span>
+<p align="right">
+  <a href="https://github.com/prateek0489" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" alt="GitHub" width="24" height="24" style="margin-right: 10px;" />
   </a>
-
-  <a href="https://linkedin.com/in/pshrivastava1989" target="_blank" style="margin-right: 15px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="20" style="vertical-align: middle;">
-    <span style="margin-left: 6px;">LinkedIn</span>
+  <a href="https://linkedin.com/in/pshrivastava1989" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="24" height="24" style="margin-right: 10px;" />
   </a>
-
   <a href="https://scholar.google.com/citations?user=V62DoOgAAAAJ" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Google_Scholar_logo.svg" alt="Google Scholar" width="20" style="vertical-align: middle;">
-    <span style="margin-left: 6px;">Google Scholar</span>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/googlescholar.svg" alt="Google Scholar" width="24" height="24" />
   </a>
 </p>
-
 
 <table>
 <tr>
