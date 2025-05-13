@@ -19,7 +19,7 @@ permalink: /
 <table>
 <tr>
 <td style="width: 30%; vertical-align: top;">
-  <img src="/assets/images/prateek.jpg" alt="Prateek Shrivastava" width="200" style="border-radius: 50%;">
+  <img src="/assets/images/prateek.jpg" alt="Prateek Shrivastava" width="300" >
 </td>
 <td style="padding-left: 20px; vertical-align: top; line-height: 1.6;">
 
