@@ -85,6 +85,11 @@ permalink: /media/
   </div>
 
   <div class="media-item">
+    <div class="media-item-title">Panel: Building the AI Stack: Data, Models, and Infrastructure That Scale</div>
+    <a href="https://www.cincyaiweek.com/agenda" target="_blank">Event page</a>
+  </div>
+
+  <div class="media-item">
     <div class="media-item-title">Advisory Board – University of San Francisco</div>
     <a href="https://profed.usfca.edu/prateek-shrivastava.html" target="_blank">View profile</a>
   </div>
