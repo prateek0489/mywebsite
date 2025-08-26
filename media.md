@@ -48,6 +48,17 @@ permalink: /media/
 
 <div class="media-section">
   <h2>📰 Media & Articles</h2>
+  <div class="media-item">
+    <div class="media-item-title">Bizvoice-Indiana chamber of commerce</div>
+    <div class="media-item-desc">Thoughts on training AI talent.</div>
+    <a href="assets/files/PathToBlazingAITrail.pdf" target="_blank">Read article</a>
+  </div>
+
+  <div class="media-item">
+    <div class="media-item-title">India forum</div>
+    <div class="media-item-desc">What India’s AI Moment Must Learn from Its Own Past.</div>
+    <a href="https://www.theindiaforum.in/science-and-technology/what-indias-ai-moment-must-learn-its-own-past" target="_blank">Read article</a>
+  </div>
 
   <div class="media-item">
     <div class="media-item-title">MarketingSherpa Interview</div>
